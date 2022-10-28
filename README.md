@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pradhanmukesh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
+
 .
 
 <!---
